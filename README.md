@@ -1,8 +1,12 @@
 # Online Service Catalogue - for Public Sector Organisations
-Public sector service catalogue sample solution, delivered by Microsoft Power Pages, Dataverse, Power App and Copilot Studio
+Public sector service catalogue sample solution, which runs on Microsoft Power Pages, Dataverse, Power Apps and Copilot Studio. The solutions super power, is that it allows non technical people to define forms and form fields to render on web site for citizens to complete. These forms don't need to be created in Power Pages, but can be if you would like.
 
 ## Background
-This is provided as a solution accelerator. It's a sample solution which is not supported by Microsoft or myself. Use as a starter to help you get going quickly with a solution for performance indicator management. It is based on Circular 88 requirements and Excel template. It is flexible so that it can be used for scenarios which dont align directly to Circular 88. This solution uses the Dataverse for storage, and has both a Model Driven application (for indicator defintion, settings, rules and more) and a Canvas application (for users to submit their data elements). 
+This is provided as a solution accelerator. It's a sample solution which is not supported by Microsoft or myself. Use it as a starter/accelerator to help you get going quickly. It allows for non-technical people to define online services and associated forms for these services. These services are then rendered on the web site, and citizens can search or browse for services, and interact with the service e.g. complete an application form. This solution uses the Dataverse for storage, and has both a Model Driven application (for the service and form management) and a Power Pages site as the site for citizens.
+
+Here is a video overview of the solution
+
+- [Solution Demonstration](https://youtu.be/FpwpNxEsTxw)
 
 ## Features
 Here is a list of core features of the solution
